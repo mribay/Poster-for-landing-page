@@ -1,0 +1,61 @@
+C:\Users\ibayj\Development\Poster for landing page\Poster for landing page\bin\Debug\Poster for landing page.exe.config
+C:\Users\ibayj\Development\Poster for landing page\Poster for landing page\bin\Debug\Poster for landing page.exe
+C:\Users\ibayj\Development\Poster for landing page\Poster for landing page\bin\Debug\Poster for landing page.pdb
+C:\Users\ibayj\Development\Poster for landing page\Poster for landing page\obj\Debug\Poster for landing page.csproj.AssemblyReference.cache
+C:\Users\ibayj\Development\Poster for landing page\Poster for landing page\obj\Debug\Poster_for_landing_page.CredentialsForm.resources
+C:\Users\ibayj\Development\Poster for landing page\Poster for landing page\obj\Debug\Poster_for_landing_page.Properties.Resources.resources
+C:\Users\ibayj\Development\Poster for landing page\Poster for landing page\obj\Debug\Poster for landing page.csproj.GenerateResource.cache
+C:\Users\ibayj\Development\Poster for landing page\Poster for landing page\obj\Debug\Poster for landing page.csproj.CoreCompileInputs.cache
+C:\Users\ibayj\Development\Poster for landing page\Poster for landing page\obj\Debug\Poster for landing page.exe
+C:\Users\ibayj\Development\Poster for landing page\Poster for landing page\obj\Debug\Poster for landing page.pdb
+C:\Users\ibayj\Development\Poster for landing page\Poster for landing page\obj\Debug\Poster_for_landing_page.DashboardForm.resources
+C:\Users\ibayj\Development\Poster for landing page\Poster for landing page\obj\Debug\Poster_for_landing_page.AddPostForm.resources
+C:\Users\ibayj\Development\Poster for landing page\Poster for landing page\bin\Debug\mongocrypt.dll
+C:\Users\ibayj\Development\Poster for landing page\Poster for landing page\bin\Debug\AWSSDK.Core.dll
+C:\Users\ibayj\Development\Poster for landing page\Poster for landing page\bin\Debug\AWSSDK.SecurityToken.dll
+C:\Users\ibayj\Development\Poster for landing page\Poster for landing page\bin\Debug\DnsClient.dll
+C:\Users\ibayj\Development\Poster for landing page\Poster for landing page\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ibayj\Development\Poster for landing page\Poster for landing page\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ibayj\Development\Poster for landing page\Poster for landing page\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\ibayj\Development\Poster for landing page\Poster for landing page\bin\Debug\MongoDB.Bson.dll
+C:\Users\ibayj\Development\Poster for landing page\Poster for landing page\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\ibayj\Development\Poster for landing page\Poster for landing page\bin\Debug\MongoDB.Driver.dll
+C:\Users\ibayj\Development\Poster for landing page\Poster for landing page\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\ibayj\Development\Poster for landing page\Poster for landing page\bin\Debug\SharpCompress.dll
+C:\Users\ibayj\Development\Poster for landing page\Poster for landing page\bin\Debug\Snappier.dll
+C:\Users\ibayj\Development\Poster for landing page\Poster for landing page\bin\Debug\System.Buffers.dll
+C:\Users\ibayj\Development\Poster for landing page\Poster for landing page\bin\Debug\System.Memory.dll
+C:\Users\ibayj\Development\Poster for landing page\Poster for landing page\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ibayj\Development\Poster for landing page\Poster for landing page\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ibayj\Development\Poster for landing page\Poster for landing page\bin\Debug\System.Security.AccessControl.dll
+C:\Users\ibayj\Development\Poster for landing page\Poster for landing page\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\ibayj\Development\Poster for landing page\Poster for landing page\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\ibayj\Development\Poster for landing page\Poster for landing page\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ibayj\Development\Poster for landing page\Poster for landing page\bin\Debug\ZstdSharp.dll
+C:\Users\ibayj\Development\Poster for landing page\Poster for landing page\bin\Debug\AWSSDK.Core.pdb
+C:\Users\ibayj\Development\Poster for landing page\Poster for landing page\bin\Debug\AWSSDK.Core.xml
+C:\Users\ibayj\Development\Poster for landing page\Poster for landing page\bin\Debug\AWSSDK.SecurityToken.pdb
+C:\Users\ibayj\Development\Poster for landing page\Poster for landing page\bin\Debug\AWSSDK.SecurityToken.xml
+C:\Users\ibayj\Development\Poster for landing page\Poster for landing page\bin\Debug\DnsClient.xml
+C:\Users\ibayj\Development\Poster for landing page\Poster for landing page\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ibayj\Development\Poster for landing page\Poster for landing page\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ibayj\Development\Poster for landing page\Poster for landing page\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\ibayj\Development\Poster for landing page\Poster for landing page\bin\Debug\MongoDB.Bson.xml
+C:\Users\ibayj\Development\Poster for landing page\Poster for landing page\bin\Debug\MongoDB.Driver.xml
+C:\Users\ibayj\Development\Poster for landing page\Poster for landing page\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\ibayj\Development\Poster for landing page\Poster for landing page\bin\Debug\Snappier.xml
+C:\Users\ibayj\Development\Poster for landing page\Poster for landing page\bin\Debug\System.Buffers.xml
+C:\Users\ibayj\Development\Poster for landing page\Poster for landing page\bin\Debug\System.Memory.xml
+C:\Users\ibayj\Development\Poster for landing page\Poster for landing page\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ibayj\Development\Poster for landing page\Poster for landing page\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ibayj\Development\Poster for landing page\Poster for landing page\bin\Debug\System.Security.AccessControl.xml
+C:\Users\ibayj\Development\Poster for landing page\Poster for landing page\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\ibayj\Development\Poster for landing page\Poster for landing page\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\ibayj\Development\Poster for landing page\Poster for landing page\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ibayj\Development\Poster for landing page\Poster for landing page\obj\Debug\Poster for landing page.csproj.CopyComplete
+C:\Users\ibayj\Development\Poster for landing page\Poster for landing page\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ibayj\Development\Poster for landing page\Poster for landing page\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ibayj\Development\Poster for landing page\Poster for landing page\obj\Debug\Poster_for_landing_page.DeleteForm.resources
+C:\Users\ibayj\Development\Poster for landing page\Poster for landing page\obj\Debug\Poster_for_landing_page.UpdateForm.resources
+C:\Users\ibayj\Development\Poster for landing page\Poster for landing page\obj\Debug\Poster_for_landing_page.AddProjectForm.resources
+C:\Users\ibayj\Development\Poster for landing page\Poster for landing page\obj\Debug\Poster_for_landing_page.AddRepositoryForm.resources
